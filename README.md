@@ -1,0 +1,32 @@
+hhjrc2007
+=========
+
+
+Languages
+---------
+
+* Python
+* Go
+* C
+* Bash
+* PHP
+
+
+Currently Learning
+------------------
+
+* Forth
+* Stack-oriented programming
+
+
+Setup
+-----
+
+* OS: Void Linux (glibc)
+* Editors: vim, acme (plan9port)
+
+
+Contact
+-------
+
+* Email: hhjrc2007@proton.me
