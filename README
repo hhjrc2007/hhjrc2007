@@ -18,8 +18,8 @@ Currently Learning
 Setup
 -----
 
-* OS: Void Linux (glibc)
-* Editors: vim, acme (plan9port)
+* OS: Void Linux (musl)
+* Editors: vim
 
 Contact
 -------
