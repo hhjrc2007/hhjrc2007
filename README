@@ -18,9 +18,9 @@ Currently Learning
 Setup
 -----
 
-* OS: Void Linux (musl)
+* OS: OpenBSD
 * Editors: vim
-* Shell: oksh
+* Shell: ksh
 
 Contact
 -------
